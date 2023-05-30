@@ -1,8 +1,10 @@
-# Nuxt 3 Minimal Starter
+# Forget File System Routing. Here's How To Setup Custom Routing in Nuxt 3
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+![Forget File System Routing. Here's How To Setup Custom Routing in Nuxt 3](https://theroadtoenterprise.com/images/articles/custom-routing-in-nuxt-3/custom-routing-in-nuxt-3.png)
 
-## Setup
+This repository contains a code example for the [Forget File System Routing. Here's How To Setup Custom Routing in Nuxt 3](https://theroadtoenterprise.com/blog/how-to-setup-custom-routing-in-nuxt-3) article
+
+## Project Setup
 
 Make sure to install the dependencies:
 
@@ -40,3 +42,10 @@ npm run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+## Do you want to master Vue?
+
+Check out [Vue - The Road To Enterprise](https://theroadtoenterprise.com/books/vue-the-road-to-enterprise) book and take your Vue 2 & 3 skills to the next level
+with the most advanced Vue book written.
+
+![Vue - The Road To Enterprise book](https://theroadtoenterprise.com/images/book-cover.png)
